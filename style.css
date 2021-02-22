@@ -16,9 +16,13 @@
 }
 
 body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     font-family: karla;
-    background-color: #efefef;
-    margin: 0 auto;
+    background-color: #e5eff5;
+    height: 100vh;
 }
 
 .add-padding {
